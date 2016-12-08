@@ -20,7 +20,7 @@
 
 ###个人能力
 ###前端
-*学习过html+css，javasc，jQuery，bootstrap，Angularjs，less,Sass,JSON
+*html+css，javasc，jQuery，bootstrap，Angularjs，less,Sass,JSON
 *Ajax,KnockOut,ECMAScript6,Backbone,Webpack,Node.js+Express,
 *了解前端开发规范，一些前端工具
 
@@ -29,7 +29,7 @@
 ###后端
 
 *熟练javaSE
-*学习过
+
 *jsp,servlet,javabean,jdbc,mysql/Oracle（SQL，PL\SQL）
 *struts2,hibernate4,spring4,Mybaits,WebService,Svn,java常用算法，数据结构
 *SpringMvc,Jpa,SpringData,Redis,Maven,Shiro,SpringBoot,工作流activity
