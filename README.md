@@ -34,7 +34,7 @@
 *struts2,hibernate4,spring4,Mybaits,WebService,Svn,java常用算法，数据结构
 *SpringMvc,Jpa,SpringData,Redis,Maven,Shiro,工作流activity
 *Dubbo,java常用图表，Fckeditor，熟悉linlux基本命令，Easy-UI
-*了
+
 
 ###技术博客
 *个人博客：http://www.cnblogs.com/jrts/
