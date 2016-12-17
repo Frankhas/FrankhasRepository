@@ -1,0 +1,8 @@
+title: Frankhasrepository------Where there is a will there is a way
+description: Personal Resume
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
