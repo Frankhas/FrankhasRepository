@@ -20,9 +20,9 @@
 
 ###个人能力
 ###前端
-*html+css，javasc，jQuery，bootstrap，Angularjs，less,Sass,JSON
-*Ajax,KnockOut,ECMAScript6,Backbone,Webpack,Node.js+Express,
-*了解前端开发规范，一些前端工具
+*html+css，javasc，jQuery，bootstrap，JSON，Ajax
+*像Angularjs，less,Sass,KnockOut,ECMAScript6,Backbone,Webpack,Node.js+Express,课程还在学习中
+
 
 
 
@@ -32,9 +32,9 @@
 
 *jsp,servlet,javabean,jdbc,mysql/Oracle（SQL，PL\SQL）
 *struts2,hibernate4,spring4,Mybaits,WebService,Svn,java常用算法，数据结构
-*SpringMvc,Jpa,SpringData,Redis,Maven,Shiro,SpringBoot,工作流activity
+*SpringMvc,Jpa,SpringData,Redis,Maven,Shiro,工作流activity
 *Dubbo,java常用图表，Fckeditor，熟悉linlux基本命令，Easy-UI
-*了解过MongoDB，Memcache，Jenkins，Hadoop
+*了
 
 ###技术博客
 *个人博客：http://www.cnblogs.com/jrts/
